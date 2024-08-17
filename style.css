@@ -1,0 +1,64 @@
+/* premiere theme de votre formulaire */
+.forme{
+   margin: auto;
+   width: 300px;
+   
+}
+.div{
+    padding: 10px;
+
+}
+.div-email, .div-password{
+    height: 20px;
+    width: 250px;
+}
+
+.submite{
+    margin: 10px;
+    height: 30px;
+    width: 100px;
+    background-color: brown;
+    border: brown;
+    color: white;
+    text-transform: capitalize;
+
+}
+.submite:hover{
+    background-color: rgb(148, 41, 41);
+}
+
+label{
+    font-size: 20px;
+    color:brown;
+}
+#title{
+    padding: 10px;
+    color: slategray;
+}
+
+.mode{
+    margin: auto;
+    position: absolute;
+    right: 400px;
+
+}
+.mode, #button{
+    border-radius: 5px;
+    border: 10px brown;
+    font-size: 13px;
+
+}
+
+/* deuxieme theme de votre formulaire */
+
+.frequence{
+    background-color: black;
+    border: none;
+    color : orange;
+}
+
+.frequence:hover{
+    background-color: rgb(24, 23, 23);
+    border: 1px solid green;
+    font-size: medium;
+}
